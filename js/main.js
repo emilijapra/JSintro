@@ -53,7 +53,7 @@ if ((rndNum3 < rndNum4 && rndNum4 < rndNum5) || (rndNum3 > rndNum4 && rndNum4 > 
 console.log("4uzd");
 let d = Math.round (((Math.random()) * 9)+1);
 console.log("pirma krastine = " + d);
-let e = 1 + Math.round ((Math.random()) * (10-1);
+let e = 1 + Math.round (( Math.random() ) * (10-1));
 console.log("antra krastine = " + e);
 let f = 1 +  Math.round ((Math.random()) * 9);
 console.log("trecia krastine = " + f);
