@@ -64,3 +64,29 @@ if ((d + e) > f && (f + e) > d && (d + f) > e) {
     console.log("trikampio nebus");
 }
 
+
+
+console.log("1uzd 2 skyrius");
+let fstname = "Will";
+let lastname = "Smith"
+
+console.log( fstname + " " + lastname );
+console.log( fstname.length + " " + lastname.length);
+
+if ((fstname > lastname) && (lastname > fstname)) {
+
+} else {
+    console.log (fstname);
+}
+
+console.log("2uzd");
+let fstname1 = "Will"
+let result = fstname1.toUpperCase();
+console.log(result);
+
+let lastname1 = "Smith"
+let result1 = lastname1.toLowerCase()
+console.log(result1);
+
+
+
